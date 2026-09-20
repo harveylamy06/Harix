@@ -1,0 +1,7 @@
+{
+  "name": "Harix - Gestion Scolaire & Portails",
+  "description": "Plateforme scolaire multi-rôles Harix : Super Administrateur, Dirigeant d'école, Professeur titulaire (vie scolaire quotidienne, groupes inter-écoles en 6ème), Parents et Élèves (espace Classe TP).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
